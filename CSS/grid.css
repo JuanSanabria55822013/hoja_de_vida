@@ -83,7 +83,7 @@
     color: rgb(165, 24, 24);
     font-size: 45px;
     cursor: pointer;
-    box-shadow: auto;
+    text-shadow: 50px 10px rgba(0, 0, 0, 0.212);
 }
 
 .hojaVida article p{
@@ -108,7 +108,7 @@
     color: rgb(165, 24, 24);
     font-size: 70px;
     cursor: pointer;
-    text-shadow: 30px 10px 30px 10px;
+    text-shadow: 50px 10px rgba(0, 0, 0, 0.212);
 }
 
 .hojaVida footer{
@@ -116,5 +116,5 @@
 }
 
 .hojaVida footer{
-    font-size: 15px;
+    font-size: 20px;
 }
